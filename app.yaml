@@ -1,0 +1,15 @@
+runtime: php55
+api_version: 1
+
+handlers:
+  - url: /css
+    static_dir: css
+
+  - url: /
+    script: employee.php
+
+  - url: /employee
+    script: employee.php
+
+  - url: /frequency
+    script: frequency.php

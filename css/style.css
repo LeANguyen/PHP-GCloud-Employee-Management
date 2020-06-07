@@ -1,0 +1,33 @@
+html,
+body {
+    font-size: 15px;
+}
+
+.employee-form {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+.employee-table {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+.frequency-table {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+.form-error {
+    color: red;
+}
+
+.table.table-bordered {
+    text-align: center;
+}
